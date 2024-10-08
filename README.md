@@ -1,6 +1,6 @@
 <h1 align="center"> Teste de Software </h1>
 
-<p align="center"> Contains all my learning related to DevOps tools and tech.</p>
+<p align="center"> Um repositório para compartilhar meus estudos, dicas, técnicas e outros pontos sobre Testes e Qualidade de Software.</p>
 
 
 <be>
